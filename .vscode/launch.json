@@ -1,0 +1,26 @@
+{
+	"version": "0.1.0",
+	"configurations": [
+		{
+			"name": "Python: Запуск exercise1.py",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "${workspaceFolder}/exercise1.py",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Python: Запуск exercise2.py",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "${workspaceFolder}/exercise2.py",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Python: Запуск exercise3.py",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "${workspaceFolder}/exercise3.py",
+			"console": "integratedTerminal"
+		}
+	]
+}
